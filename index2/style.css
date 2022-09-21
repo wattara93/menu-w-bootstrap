@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-image: url(/index2/bg-pic.jpeg);
+    background-color: #cccccc;
+    object-fit: fill;
+    height: auto;
+    width: fit-content;
+}
+h1, h2, p {
+    background-color: white;
+    opacity: 50%;
+    
+}
+h1 {
+    text-align: center;
+    border-radius: 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+    height: 36px;
+    width: 105px;
+}
